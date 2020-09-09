@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "~/EV3RT/**"
+                "D:\\kkgio\\Robotics\\Languages\\EV3RTOS\\YS-ev3rt-hrp2\\**"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}
