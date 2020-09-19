@@ -1,1 +1,1 @@
-bash --login ./BuildScripts/make
+bash --login ./BuildScripts/make.sh
